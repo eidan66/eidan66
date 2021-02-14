@@ -10,7 +10,7 @@ I have a bachelor's degree in information systems management from Tel Aviv-Yafo 
 I worked on a number of projects to learn and practice the common technologies in the job market.
 ##### On the front-side:
 * [Weather Application](https://github.com/eidan66/Weather-Application) - I worked with create-react-app, api, styled-components and storybook.
-* [Budget Application](https://github.com/eidan66/Budget-Application) - Still working on the current project. 
+* [Budget Application](https://github.com/eidan66/Budget-Application) - Fully responsive web single page application that present to user his transactions and finances information.
 
 ##### On the server-side:
 * [AutomatiX Customer portal](https://github.com/eidan66/Automatix) - I worked with Node.js, MongoDB. Api's - Salesforce, iCount, Calendly and JotForm
