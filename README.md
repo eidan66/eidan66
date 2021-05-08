@@ -9,7 +9,7 @@ I have a bachelor's degree in information systems management from Tel Aviv-Yafo 
 ## Projects
 I worked on a number of projects to learn and practice the common technologies in the job market.
 ##### On the front-side:
-* [Saikai](https://github.com/eidan66/Saikai) - Saikai (Resume in Japanese) is web platform to management resume submissions.
+* [Saikai](https://github.com/Saikai-oyo/Saikai) - Saikai (Resume in Japanese) is web platform to management resume submissions.
 * [Weather Application](https://github.com/eidan66/Weather-Application) - I worked with create-react-app, api, styled-components and storybook.
 * [Budget Application](https://github.com/eidan66/Budget-Application) - Fully responsive web single page application that present to user his transactions and finances information.
 
