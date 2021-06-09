@@ -1,6 +1,8 @@
 # Idan Levian - Front End Developer !
 Hey, welcome to my Github page !
-I'm Front-End developer that looking for job.
+I'm Junior Front-End Developer who loves what he does, and not afraid of server-side tasks!
+
+And I looking for Front-end / Fullstack job.
 
 ## About me!
 I live in Israel (Azor), 26 year's old.
