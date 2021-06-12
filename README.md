@@ -10,7 +10,7 @@ I have a bachelor's degree in information systems management from Tel Aviv-Yafo 
 
 ## Open-source
 - [Hasadna](https://github.com/hasadna/anyway-newsflash-infographics), anyway-newsflash-infographics
-- [Saikai (owners)](https://github.com/Saikai-oyo/Saikai) - ⭐⭐ Favorit ⭐⭐
+- [Saikai (owners)](https://github.com/Saikai-oyo/Saikai) - ⭐⭐ favorite ⭐⭐
 
 ## Projects
 I worked on a number of projects to learn and practice the common technologies in the job market.
