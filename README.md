@@ -66,7 +66,7 @@ I worked on a number of projects to learn and practice the common technologies i
   </a>
 </p>
 
-## ⚙️ Github Stats ⚙️
+## 📊 Github Stats 📊
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eidan66&theme=xcode" alt="Iamtripathisatyam" />
 </p>
