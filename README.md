@@ -2,10 +2,10 @@
 Hey, welcome to my Github page !
 I'm Junior Front-End Developer who loves what he does, and not afraid of server-side tasks!
 
-And I looking for Front-end / Fullstack job.
+Today, after hard work, i'm Frontend developer at Rewire 🥂
 
 ## About me!
-I live in Israel (Azor), 26 year's old.
+I live in Israel (Azor), 27 year's old.
 I have a bachelor's degree in information systems management from Tel Aviv-Yafo Academy, and focuses mainly with web development.
 
 ## Open-source
