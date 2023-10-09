@@ -2,10 +2,10 @@
 Hey, welcome to my Github page !
 I'm Front-End Developer who loves what he does, and not afraid of server-side tasks!
 
-Today, after hard work, i'm Frontend developer at Remitly 🥂
+I have over 2.5 years of experience as a Frontend developer!
 
 ## About me!
-I live in Israel (Azor), 28 year's old.
+I live in Israel (Holon), 29 year's old.
 I have a bachelor's degree in information systems management from Tel Aviv-Yafo Academy, and focuses mainly with web development.
 
 ## Open-source
