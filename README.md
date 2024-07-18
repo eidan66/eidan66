@@ -62,7 +62,7 @@ I worked on a number of projects to learn and practice the common technologies i
 ## 🏆 Github Trophies 🏆
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/?username=eidan66&theme=darkone"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=eidan66&theme=darkone"/>
   </a>
 </p>
 
