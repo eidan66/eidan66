@@ -1,61 +1,55 @@
-# Idan Levian - Front End Developer!
-Hey, welcome to my Github page!
-I'm a Front-End Developer who loves what he does, and is not afraid of server-side tasks!
+![github-header-image](https://github.com/user-attachments/assets/1f580e34-2004-4e62-b3a3-99e4c05d4141)
 
-I have over 3.5 years of experience as a Frontend developer!
+# Hello World, I'm Idan 👨🏽‍💻
 
-## About me!
-I live in Israel (Holon), 29 years old.
-I have a bachelor's degree in information systems management from Tel Aviv-Yafo Academy and focus mainly on web development.
+Welcome to my GitHub profile! I'm a passionate front-end developer with over 3 years of experience in building responsive and engaging web and mobile applications. I love working with React Native and exploring new technologies. Below you'll find some of my key projects and skills.
 
-## Open-source
-### Saikai (owners), ⭐⭐ favorite ⭐⭐
+![Profile Views](https://komarev.com/ghpvc/?username=eidan66&color=blue)
+
+## 🚀 About Me
+- 🌱 I’m currently enhancing my skills in advanced React Native techniques and modern frontend development.
+- 💬 Ask me about React, Redux, JavaScript, or anything tech-related!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/idanlevian/)
+
+## 🛠️ Top Skills
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📘 Favorites Featured Projects
+
+### [PokedexApp](https://github.com/eidan66/pokedex-app)
+A React Native project aimed at creating a Pokedex based on the Pokemon show. This project is a complete practice in React Native, using Redux, a Pokemon API, and a custom server as a proxy.
+
+- **Technologies**: React Native, Redux, Typescript, Jest, Storybook, Figma
+- **Features**: 
+  - Smooth UI/UX
+  - Detailed information about specific Pokemon
+  - Easy-to-read layout for all Pokemon
+
+<p>
+  <a href="https://github.com/eidan66/pokedex-app" target="_blank">
+    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=eidan66&repo=pokedex-app&theme=dark"/>
+  </a>
+</p>
+
+### [Saikai (Open-Source owners)](https://github.com/Saikai-oyo/Saikai)
+Saikai is a web platform to manage resume submissions, especially focused on the Japanese job market.
+
+- **Technologies**: React, Redux, Node.js, MongoDB
+- **Features**:
+  - Manage resume submissions efficiently
+  - User-friendly interface for recruiters and job seekers
+  - Support for Japanese language and resume formats
+  - **Status**: The project is deprecated for now, but soon, we will work on bringing it back
 
 <p>
   <a href="https://github.com/Saikai-oyo/Saikai" target="_blank">
     <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=Saikai-oyo&repo=Saikai&theme=dark"/>
-  </a>
-</p>
-
-#### Hasadna, anyway-newsflash-infographics
-
-<p>
-  <a href="https://github.com/hasadna/anyway-newsflash-infographics" target="_blank">
-    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=hasadna&repo=anyway-newsflash-infographics&theme=dark"/>
-  </a>
-</p>
-
-
-## Projects
-I worked on a number of projects to learn and practice the common technologies in the job market.
-### On the front side:
-#### Saikai, Saikai (Resume in Japanese) is a web platform to manage resume submissions.
-<p>
-  <a href="https://github.com/Saikai-oyo/Saikai" target="_blank">
-    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=Saikai-oyo&repo=Saikai&theme=dark"/>
-  </a>
-</p>
-
-#### Weather Application, I worked with create-react-app, api, styled-components and storybook.
-<p>
-  <a href="https://github.com/eidan66/Weather-Application" target="_blank">
-    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=eidan66&repo=Weather-Application&theme=dark"/>
-  </a>
-</p>
-
-#### Budget Application, Fully responsive web single page application that presents to user his transactions and finances information.
-<p>
-  <a href="https://github.com/eidan66/Budget-Application" target="_blank">
-    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=eidan66&repo=Budget-Application&theme=dark"/>
-  </a>
-</p>
-
-
-### On the server-side:
-#### AutomatiX Customer portal, I worked with Node.js, MongoDB. Api's - Salesforce, iCount, Calendly and JotForm.
-<p>
-  <a href="https://github.com/eidan66/Automatix" target="_blank">
-    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=eidan66&repo=Automatix&theme=dark"/>
   </a>
 </p>
 
@@ -66,14 +60,11 @@ I worked on a number of projects to learn and practice the common technologies i
   </a>
 </p>
 
-## 📊 Github Stats 📊
+## 📈 GitHub Stats
+![Eidan66's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eidan66&show_icons=true&theme=radical)
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=eidan66&theme=xcode" alt="Iamtripathisatyam" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eidan66&theme=xcode" alt="Iamtripathisatyam" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats-eight-wheat-54.vercel.app/api?username=eidan66&show_icons=true&theme=dark" alt="Iamtripathisatyam" />
-</p>
-
-## Contact me
-Feel free to contact me and PM me on my [Linkedin](https://www.linkedin.com/in/idanlevian/) profile.
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idanlevian/)
