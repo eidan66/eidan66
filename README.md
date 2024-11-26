@@ -37,6 +37,24 @@ A React Native project aimed at creating a Pokedex based on the Pokemon show. Th
   </a>
 </p>
 
+### [Pokedex Web](https://github.com/eidan66/pokedex-web)
+A web-based Pokedex inspired by the Pokémon series. This project serves as a complete practice in modern web development using React, TypeScript, and NestJS. It utilizes a PostgreSQL database, Redis for caching, and a custom-built backend API to deliver Pokémon data efficiently.
+
+-	**Technologies**: React, TypeScript, NestJS, PostgreSQL, Redis, Docker,React Router
+- **Features**:
+  - Login and Registration users
+  - Caching data 
+  - Smooth UI/UX
+  - Detailed information about specific Pokemon
+  - Easy-to-read layout for all Pokemon
+
+<p>
+  <a href="https://github.com/eidan66/pokedex-web" target="_blank">
+    <img src="https://github-readme-stats-eight-wheat-54.vercel.app/api/pin/?username=eidan66&repo=pokedex-web&theme=dark"/>
+  </a>
+</p>
+
+
 ### [Saikai (Open-Source owners)](https://github.com/Saikai-oyo/Saikai)
 Saikai is a web platform to manage resume submissions, especially focused on the Japanese job market.
 
